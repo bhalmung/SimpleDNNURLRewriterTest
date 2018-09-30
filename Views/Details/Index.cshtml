@@ -1,0 +1,10 @@
+﻿@inherits DotNetNuke.Web.Mvc.Framework.DnnWebViewPage<Christoc.Modules.TestURL.Models.Item>
+
+@using System.Text.RegularExpressions
+@using DotNetNuke.Web.Mvc.Helpers
+
+
+<div id="Items-@Dnn.ModuleContext.ModuleId">
+    @Model.ItemName
+    @Model.ItemDescription
+</div>

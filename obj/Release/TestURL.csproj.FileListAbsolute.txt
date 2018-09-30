@@ -1,0 +1,15 @@
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\bin\TestURL.dll.config
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\bin\TestURL.dll
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\bin\TestURL.pdb
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\TestURL\obj\Release\Christoc.Modules.TestURL.App_LocalResources.Settings.resources
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\TestURL\obj\Release\TestURL.csproj.GenerateResource.Cache
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\TestURL\obj\Release\TestURL.dll
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\TestURL\obj\Release\TestURL.pdb
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\bin\TestURL.dll.config
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\bin\TestURL.dll
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\bin\TestURL.pdb
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\obj\Release\Christoc.Modules.TestURL.App_LocalResources.Settings.resources
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\obj\Release\TestURL.csproj.GenerateResource.Cache
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\obj\Release\TestURL.dll
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\obj\Release\TestURL.pdb
+F:\DNN\DNN_Platform_9.2.1.533-298_Install\DesktopModules\MVC\TestURL\obj\Release\TestURL.csprojResolveAssemblyReference.cache

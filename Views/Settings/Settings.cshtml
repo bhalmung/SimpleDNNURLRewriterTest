@@ -1,0 +1,25 @@
+﻿@inherits DotNetNuke.Web.Mvc.Framework.DnnWebViewPage <Christoc.Modules.TestURL.Models.Settings>
+
+@using DotNetNuke.Web.Mvc.Helpers
+
+<h2 id="dnnSitePanel-BasicSettings" class="dnnFormSectionHead"><a href="" class="dnnSectionExpanded">@Dnn.LocalizeString("BasicSettings")</a></h2>
+<fieldset>
+    <div class="dnnFormItem">
+        <div class="dnnLabel" style="position: relative;">
+            @Html.LabelFor(m => Model.EnableUrlReplacement, new { @class = "col-md-2 control-label" })
+        </div>
+        @Html.CheckBoxFor(m => Model.EnableUrlReplacement)
+    </div>
+    <div class="dnnFormItem">
+        <div class="dnnLabel" style="position: relative;">
+            @Html.LabelFor(m => Model.DetailsPageID, new { @class = "col-md-2 control-label" })
+        </div>
+        <select name="DetailsPageID">
+        @foreach (SelectListItem item in (List<SelectListItem>)ViewData["DetailPageTab"])
+        {
+           <option selected="@(item.Value==Model.DetailsPageID.ToString())" value="@item.Value">@item.Text</option>
+        }
+        </select>
+    </div>
+</fieldset>
+
